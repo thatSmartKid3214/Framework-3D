@@ -1,7 +1,7 @@
 import subprocess
 
-file_list = ["main", "src/glad"]
-compile_list = ["main", "glad"]
+file_list = ["main", "src/glad", "src/window", "src/framework", "src/buffers", "src/shader"]
+compile_list = ["main", "glad", "framework", "window", "buffers", "shader"]
 
 include_list = ["include/"]
 

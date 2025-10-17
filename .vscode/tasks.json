@@ -8,6 +8,8 @@
                 "-fdiagnostics-color=always",
                 "-g",
                 "src/glad.cpp",
+                "src/window.cpp",
+                "src/framework.cpp",
                 "main.cpp",
                 "-IC:\\Users\\kftsh\\Documents\\SoftwareProjects\\C++\\personal\\3D Engine\\include",
                 "-L.",
